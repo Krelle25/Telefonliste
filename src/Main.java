@@ -129,7 +129,7 @@ public class Main {
 
     private static void udskrivListe()
     {
-        System.out.println("Udskriver telefonliste: ");
+        System.out.println("Udskriver telefonliste: \n");
         System.out.println(tlfListe.toString());
     }
 
